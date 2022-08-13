@@ -1,0 +1,26 @@
+{
+  "name": "esfract",
+  "version": "0.0.0",
+  "description": "An ECMAScript rewrite of Defract!",
+  "main": "esfract.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esfract/esfract.git"
+  },
+  "keywords": [
+    "defract",
+    "array",
+    "ndarray",
+    "countif",
+    "must"
+  ],
+  "author": "intfract",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esfract/esfract/issues"
+  },
+  "homepage": "https://github.com/esfract/esfract#readme"
+}
